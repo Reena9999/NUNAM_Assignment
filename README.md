@@ -1,6 +1,6 @@
 https://github.com/user-attachments/assets/9997ab3f-6a18-449d-ac4a-d95184068b14
 
-technology used for this app:
+technology used for this app:  
 Streamlit  
 MySQL  
 
