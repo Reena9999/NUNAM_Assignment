@@ -1,8 +1,8 @@
 https://github.com/user-attachments/assets/9997ab3f-6a18-449d-ac4a-d95184068b14
 
 technology used for this app:
-Streamlit
-MySQL
+Streamlit  
+MySQL  
 
 To execute this app follow these steps:
 1. create a database in your local system called 'nunam'
