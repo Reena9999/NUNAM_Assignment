@@ -2,9 +2,10 @@
 from flask import Flask, jsonify
 from .db import create_connection, get_cursor, close_connection
 
+# creating Flask app
 app = Flask(__name__)
 
-
+# REST API to read data from the database 
 @app.route('/read_data/<int:id>', methods=['GET'])
 def read_data_by_id(id):
     connection = create_connection()
