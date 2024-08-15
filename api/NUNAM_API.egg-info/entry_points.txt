@@ -1,0 +1,2 @@
+[console_scripts]
+run_api = api.api:app.run
