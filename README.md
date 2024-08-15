@@ -9,3 +9,6 @@ To execute this app follow these steps:
 	a. Execute 'pip install -e .' on your command line interface.
 4. Execute 'python -m api.api' to run API service.
 5. Execute 'streamlit run Dashboard.py --server.port 8080' to start the app.
+  
+![GIF](https://github.com/user-attachments/assets/ace7d11f-1ec5-413b-82c8-5066108aa6b9)
+
