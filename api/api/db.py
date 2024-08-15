@@ -1,9 +1,10 @@
-# Creating a direct connection to the local database in MySQL 
+# Creating a connection to the local database in MySQL 
 import mysql.connector
 from mysql.connector import Error
 from .config import DB_CONFIG
 
 def create_connection():
+    # providing the parameters for connection
     try:
         connection = mysql.connector.connect(
             host=DB_CONFIG['host'],
