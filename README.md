@@ -1,4 +1,5 @@
-![gif](https://github.com/user-attachments/assets/40d9cbdb-1958-4378-a461-cc4a80ffbbe7)
+
+https://github.com/user-attachments/assets/58ac308e-d89c-4387-b78e-b7fa674836db
 
 
 technology used for this app:  
