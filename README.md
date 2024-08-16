@@ -1,4 +1,5 @@
-https://github.com/user-attachments/assets/9997ab3f-6a18-449d-ac4a-d95184068b14
+![gif](https://github.com/user-attachments/assets/40d9cbdb-1958-4378-a461-cc4a80ffbbe7)
+
 
 technology used for this app:  
 Streamlit  
